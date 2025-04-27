@@ -1,9 +1,8 @@
-﻿using Exiled.Events.EventArgs;
+﻿using System.Collections.Generic;
+using Exiled.Events.EventArgs;
 using Exiled.API.Features;
 using Exiled.API.Enums;
 using MEC;
-using System.Collections.Generic;
-using System.Linq;
 using UnityEngine;
 using Respawning;
 using Exiled.Events.EventArgs.Server;
